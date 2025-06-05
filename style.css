@@ -1,0 +1,37 @@
+body{
+    background-color: rgba(168, 235, 168, 0.809);
+}
+h1{
+    font-family: gravitas one;
+    color: rgb(122, 125, 58);
+    text-align: center;
+    margin-top: 100px;
+}
+.photos{
+    padding: 1px;
+    border: 5px solid white;
+    margin-left: ;
+
+}
+.mainposter{
+    padding: 12%;
+    padding-top: 5% ;
+}
+.text2{
+    text-align: center;
+    color: antiquewhite;
+    background-color: rgb(11, 125, 11);
+    margin-top: 10px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 100px;
+
+}
+.person{
+    text-transform: capitalize;
+    text-transform: uppercase;
+    text-align: left;
+}
+.img{
+    border: 10px solid rgb(255, 255, 255);
+}
